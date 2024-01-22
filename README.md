@@ -7,9 +7,9 @@
 <a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
-[![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=black)](https://github.com/CyniteOfficial/Auto-Filter-Bot)   
+[![Stars](https://img.shields.io/github/stars/jayanta9933/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/jayanta9933/Auto-Filter-Bot?style=flat-square&color=blue)](https://github.com/CyniteOfficial/Auto-Filter-Bot/fork)
+[![Size](https://img.shields.io/github/repo-size/jayanta9933/Auto-Filter-Bot?style=flat-square&color=black)](https://github.com/CyniteOfficial/Auto-Filter-Bot)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
 [![Contributors](https://img.shields.io/github/contributors/Aadhi000/Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot/graphs/contributors)
 ## Features
